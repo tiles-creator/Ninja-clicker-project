@@ -19,7 +19,7 @@ TriangleObject.java\
 CircleObject.java
 
 Then, run the program by running the NinjaClickerGame.java file.
-If running in Eclipse, go to Run Configurations and add the following lines under "VM arguments:" box:
+If running in Eclipse, go to Run Configurations and add the following lines under "VM arguments:" box:\
 --module-path="C:\JavaFX\javafx-sdk-17.0.1\lib" --add-modules=javafx.controls,javafx.fxml    (*except use your path for where JavaFX lib file is located*)
 
 
