@@ -1,7 +1,7 @@
 # Ninja-clicker-project
 Ninja Clicker Game - Group Project
 
-Authors:  Teresa Iles, William Owuama, Albert Rosas, Mark Wilson
+Authors:  Teresa Iles, William Owuama, Albert Rosas, Mark Wilson\
 Due Date:  11/21/19
 Course:  COSC 1137 Fundamentals of Programming II
 Instructor:  Greg Yera
